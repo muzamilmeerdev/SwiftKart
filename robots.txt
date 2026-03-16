@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muzamilmeerdev.github.io/e-commerce/sitemap.xml
